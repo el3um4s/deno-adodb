@@ -211,73 +211,163 @@
         "signature": "1",
         "affectsGlobalScope": true
       },
-      "https://deno.land/std/uuid/_common.ts": {
-        "version": "0eac11143756f5b258d93011fa64e2384528cb14ab061e5a37fabf040dac0b37",
-        "signature": "-17143383195",
+      "asset:///lib.deno.unstable.d.ts": {
+        "version": "1",
+        "signature": "1",
+        "affectsGlobalScope": true
+      },
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/execute.ts": {
+        "version": "4d37e0d999c1cca97bc7a701fea572e9226e4a2f1af20902a56a723578ce2dcb",
+        "signature": "-15648334829",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std/uuid/v1.ts": {
-        "version": "4abb875acaa43d8836359f6b3d1804b454b9058e6084c66c849c2caf21fe6b6a",
-        "signature": "-42273907837",
+      "https://deno.land/std/path/_constants.ts": {
+        "version": "84b4a6fabd4bf0de69c488c4d69a8ff87e88d3b94335fe83c80b6c850d908054",
+        "signature": "74496462875",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std/uuid/v4.ts": {
-        "version": "22eed90fec989e03068770a2418bedc7e5de0eb2d8682e2e4dd96fec082df246",
-        "signature": "-909062625",
+      "https://deno.land/std/path/_interface.ts": {
+        "version": "452e64756937c7b96e38a27ad7e2beffdcf3af915c7c395eefccb47b69eec469",
+        "signature": "-9597734483",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std/hash/sha1.ts": {
-        "version": "b99b432f11e961d8c8e94309b0f23ab9665c30c616ee9d904acf58b4fed97cd6",
-        "signature": "-11435360377",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std/node/_util/_util_promisify.ts": {
-        "version": "a0dcac0d254a578bdc0154fa95e8b921a3b83c0fa827ce5866644220b543d52e",
-        "signature": "-3659306192",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std/node/_util/_util_callbackify.ts": {
-        "version": "bebce0a963196da76c2445c759e9f11190c28707966770a9fccbf6929276bf8c",
-        "signature": "-3474674712",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std/node/_util/_util_types.ts": {
-        "version": "cea4581583a21da1f4ca147c579f47de9104e64218ae32cd208fa74f164d012b",
-        "signature": "30544958363",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std/node/_utils.ts": {
-        "version": "8962a0d7a3b6244b8518f2886c2a2e8cce2ec1ebfc7cf8997ddadc5e556dfa68",
-        "signature": "27645475865",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std/node/util.ts": {
-        "version": "ad910ad2e434b297169012edbc29e32569c34eb539dcea34919fa17d3f79b940",
-        "signature": "711236238",
+      "https://deno.land/std/path/_util.ts": {
+        "version": "d64762fa3948e5518b0d5ca8618a701c686169e99967e89e8e01b684ed37e2b7",
+        "signature": "-27547260467",
         "affectsGlobalScope": false
       },
       "https://deno.land/std/_util/assert.ts": {
-        "version": "ac0bcbae93dcec8f52442dd5ad35780d9128ad43c40698edafd089af555647b4",
-        "signature": "-16409965166",
+        "version": "a004d5e8dd849127b767a1a0c6112ff1c9998764aadc32062d6a8a42454f9058",
+        "signature": "-20603086362",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std/uuid/v5.ts": {
-        "version": "a9c3ebbb8376026319d082d2809158c44e47ae3dd8c00d6e315862996ec48dd9",
-        "signature": "9705701204",
+      "https://deno.land/std/path/win32.ts": {
+        "version": "853d209e172a7532c62c07040855e5c591b0d3b16dee85051f1b2b08b9f8d874",
+        "signature": "22319352733",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std/uuid/mod.ts": {
-        "version": "16d942c178098457ead2fb21f3dc1b9120646d41a8a94c34a3cf54b133431bb7",
-        "signature": "16509749767",
+      "https://deno.land/std/path/posix.ts": {
+        "version": "1a528f37dd7a414a1d97095c60c31f3ed89a11a8f8472bb85092b64c4fa86fbf",
+        "signature": "69337400921",
         "affectsGlobalScope": false
       },
-      "https://deno.land/x/exec/mod.ts": {
-        "version": "7ed8d3ea3c9ef0f7b0f5e21eb0f4c16de849142597d76feea75ff3b46972c0ae",
-        "signature": "-14902034697",
+      "https://deno.land/std/path/separator.ts": {
+        "version": "de9757369405ebe01d392202781a061a86959ad87c2d428f5f15ae5381425d1c",
+        "signature": "10221418358",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/path/common.ts": {
+        "version": "585ab00ee80709fc7cfa59b111b62f6182098323982e2035e53808db0fa86221",
+        "signature": "41415729633",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/path/_globrex.ts": {
+        "version": "6a2a527b9d026168089c76b8d3267f2cb0458ee88b36963772366513bb8df724",
+        "signature": "-52794736174",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/path/glob.ts": {
+        "version": "07b6aeb123cd638bbb452e037b32d3c53afa7cb6f8735ee0b9923530ac9371cc",
+        "signature": "76817274749",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/path/mod.ts": {
+        "version": "f2558bd9e9754f5a2e0312b166a5a2057b9fa6305cd9f972160f951bf73cc07c",
+        "signature": "-4472155389",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/empty_dir.ts": {
+        "version": "0006f7596bfbaa9750d87fbbb0e4d1dae8dfbc4a6771953d43e309dfd8380d43",
+        "signature": "15017988635",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/_util.ts": {
+        "version": "fee5adac3419f01568024927457039a94a6e1a8d45ae535c8db562fd9f100dd6",
+        "signature": "14320694137",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/ensure_dir.ts": {
+        "version": "6ca5df0ba6f9b8bfc5e26bdc5f1327abd97d02c04c8fafb621713fee76745167",
+        "signature": "7623401277",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/ensure_file.ts": {
+        "version": "d865458a121af7f0b65a04ac1235c3a2fc23dd03fbdea014b2b8282c5a9a5903",
+        "signature": "28794897629",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/exists.ts": {
+        "version": "8afda67c6d6f3e78096f1ba36e2aed8395b7f0eaacb4303fd299063299601fca",
+        "signature": "10857301217",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/ensure_link.ts": {
+        "version": "b432f2b86e9d1197ef4f75a6cf42fb7e7522bce089ec92639913cf8d54cdef21",
+        "signature": "15948109805",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/ensure_symlink.ts": {
+        "version": "469013494fe6e4fa146a8b4dcdd35de1152e152347e61036d16859e481e4737c",
+        "signature": "26858022813",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/walk.ts": {
+        "version": "ca9ece26309f888d86795edaac77feb0428311ff65808f4617f4b537160e3563",
+        "signature": "-42059937784",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/expand_glob.ts": {
+        "version": "eb6ff0faedbe540cbd92c27b94c14c6fcbc213147dc36e7e937a44da2d1cdc99",
+        "signature": "-57537601335",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/move.ts": {
+        "version": "ae22928b3a44f2829753b4a7f69d01f6826bd0e4f16c896215483da9a20dd0ce",
+        "signature": "331316089",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/copy.ts": {
+        "version": "4f03b36b6dbcc7357d7c23f86cf7fc4ea748bd87606c2463ac84acd0040aac5f",
+        "signature": "-20312490117",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/read_json.ts": {
+        "version": "2c3cff1c7fb16d55cd9420b1ab9a73cb18e4391a71b7c0e367019964ed4f1a06",
+        "signature": "18523915469",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/write_json.ts": {
+        "version": "3a60c0891b9558a957cc218fce528eea95c6ab5f683d7b109bcb959fd39676d6",
+        "signature": "34092238321",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/eol.ts": {
+        "version": "b50dfa3047c34678b8ba3f6802a973141e791a4e39920757abf73023e5605153",
+        "signature": "-1395828390",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std/fs/mod.ts": {
+        "version": "4c0909b5a56aac191904f8dddd11528e020dd9ceb76d8ed4e737bf78ff5ca9a5",
+        "signature": "-13101891738",
+        "affectsGlobalScope": false
+      },
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/cscript.ts": {
+        "version": "05c9d55a34a88b5b6b1135d399ba46373be826fa8a305a5899d0c115262b8861",
+        "signature": "-2822918007",
+        "affectsGlobalScope": false
+      },
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/listAPI.ts": {
+        "version": "4e235f9a24c15bf768588b218d478db8b22915246c8bc167a3d1a41d9b36128e",
+        "signature": "40945376751",
+        "affectsGlobalScope": false
+      },
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/command.ts": {
+        "version": "f3d2717dfa23a3eeb23cd012b1c865ad77d6509d16b29ca7ca378c7730a36787",
+        "signature": "-18501060426",
         "affectsGlobalScope": false
       },
       "file:///C:/Deto/GitHub/100giorni/deno-adodb/mod.ts": {
-        "version": "640a9f6e9d5fefb9aa4e2ee728debe3c6ca23a3e57d51a097ab777b6e3ffd044",
+        "version": "95e7570378244487b0d622728aef743a4d30c868a95eb3ec97584befdec98d0e",
         "signature": "-3531856636",
         "affectsGlobalScope": false
       }
@@ -290,63 +380,178 @@
       "jsx": 2,
       "module": 99,
       "outDir": "deno://",
+      "resolveJsonModule": true,
       "sourceMap": false,
       "strict": true,
-      "removeComments": true,
+      "stripComments": true,
       "target": 99,
       "incremental": true,
       "inlineSourceMap": true,
-      "resolveJsonModule": true,
-      "stripComments": true,
-      "tsBuildInfoFile": "./tsbuildinfo.json"
+      "tsBuildInfoFile": "./tsbuildinfo.json",
+      "lib": [
+        "lib.deno.window.d.ts",
+        "lib.deno.unstable.d.ts"
+      ]
     },
     "referencedMap": {
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/command.ts": [
+        "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/listAPI.ts"
+      ],
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/cscript.ts": [
+        "https://deno.land/std/fs/mod.ts",
+        "https://deno.land/std/path/mod.ts"
+      ],
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/listAPI.ts": [
+        "https://deno.land/std/path/mod.ts"
+      ],
       "file:///C:/Deto/GitHub/100giorni/deno-adodb/mod.ts": [
-        "https://deno.land/x/exec/mod.ts"
+        "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/command.ts",
+        "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/cscript.ts",
+        "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/execute.ts",
+        "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/listAPI.ts"
       ],
-      "https://deno.land/std/node/util.ts": [
-        "https://deno.land/std/node/_util/_util_callbackify.ts",
-        "https://deno.land/std/node/_util/_util_promisify.ts",
-        "https://deno.land/std/node/_util/_util_types.ts",
-        "https://deno.land/std/node/_utils.ts"
+      "https://deno.land/std/fs/_util.ts": [
+        "https://deno.land/std/path/mod.ts"
       ],
-      "https://deno.land/std/uuid/mod.ts": [
-        "https://deno.land/std/uuid/v1.ts",
-        "https://deno.land/std/uuid/v4.ts",
-        "https://deno.land/std/uuid/v5.ts"
-      ],
-      "https://deno.land/std/uuid/v1.ts": [
-        "https://deno.land/std/uuid/_common.ts"
-      ],
-      "https://deno.land/std/uuid/v4.ts": [
-        "https://deno.land/std/uuid/_common.ts"
-      ],
-      "https://deno.land/std/uuid/v5.ts": [
+      "https://deno.land/std/fs/copy.ts": [
         "https://deno.land/std/_util/assert.ts",
-        "https://deno.land/std/hash/sha1.ts",
-        "https://deno.land/std/node/util.ts",
-        "https://deno.land/std/uuid/_common.ts"
+        "https://deno.land/std/fs/_util.ts",
+        "https://deno.land/std/fs/ensure_dir.ts",
+        "https://deno.land/std/path/mod.ts"
       ],
-      "https://deno.land/x/exec/mod.ts": [
-        "https://deno.land/std/uuid/mod.ts"
+      "https://deno.land/std/fs/empty_dir.ts": [
+        "https://deno.land/std/path/mod.ts"
+      ],
+      "https://deno.land/std/fs/ensure_dir.ts": [
+        "https://deno.land/std/fs/_util.ts"
+      ],
+      "https://deno.land/std/fs/ensure_file.ts": [
+        "https://deno.land/std/fs/_util.ts",
+        "https://deno.land/std/fs/ensure_dir.ts",
+        "https://deno.land/std/path/mod.ts"
+      ],
+      "https://deno.land/std/fs/ensure_link.ts": [
+        "https://deno.land/std/fs/_util.ts",
+        "https://deno.land/std/fs/ensure_dir.ts",
+        "https://deno.land/std/fs/exists.ts",
+        "https://deno.land/std/path/mod.ts"
+      ],
+      "https://deno.land/std/fs/ensure_symlink.ts": [
+        "https://deno.land/std/fs/_util.ts",
+        "https://deno.land/std/fs/ensure_dir.ts",
+        "https://deno.land/std/fs/exists.ts",
+        "https://deno.land/std/path/mod.ts"
+      ],
+      "https://deno.land/std/fs/expand_glob.ts": [
+        "https://deno.land/std/_util/assert.ts",
+        "https://deno.land/std/fs/walk.ts",
+        "https://deno.land/std/path/mod.ts"
+      ],
+      "https://deno.land/std/fs/mod.ts": [
+        "https://deno.land/std/fs/copy.ts",
+        "https://deno.land/std/fs/empty_dir.ts",
+        "https://deno.land/std/fs/ensure_dir.ts",
+        "https://deno.land/std/fs/ensure_file.ts",
+        "https://deno.land/std/fs/ensure_link.ts",
+        "https://deno.land/std/fs/ensure_symlink.ts",
+        "https://deno.land/std/fs/eol.ts",
+        "https://deno.land/std/fs/exists.ts",
+        "https://deno.land/std/fs/expand_glob.ts",
+        "https://deno.land/std/fs/move.ts",
+        "https://deno.land/std/fs/read_json.ts",
+        "https://deno.land/std/fs/walk.ts",
+        "https://deno.land/std/fs/write_json.ts"
+      ],
+      "https://deno.land/std/fs/move.ts": [
+        "https://deno.land/std/fs/_util.ts",
+        "https://deno.land/std/fs/exists.ts"
+      ],
+      "https://deno.land/std/fs/walk.ts": [
+        "https://deno.land/std/_util/assert.ts",
+        "https://deno.land/std/path/mod.ts"
+      ],
+      "https://deno.land/std/path/_globrex.ts": [
+        "https://deno.land/std/path/_constants.ts"
+      ],
+      "https://deno.land/std/path/_util.ts": [
+        "https://deno.land/std/path/_constants.ts",
+        "https://deno.land/std/path/_interface.ts"
+      ],
+      "https://deno.land/std/path/common.ts": [
+        "https://deno.land/std/path/separator.ts"
+      ],
+      "https://deno.land/std/path/glob.ts": [
+        "https://deno.land/std/_util/assert.ts",
+        "https://deno.land/std/path/_globrex.ts",
+        "https://deno.land/std/path/mod.ts",
+        "https://deno.land/std/path/separator.ts"
+      ],
+      "https://deno.land/std/path/mod.ts": [
+        "https://deno.land/std/path/_constants.ts",
+        "https://deno.land/std/path/_interface.ts",
+        "https://deno.land/std/path/common.ts",
+        "https://deno.land/std/path/glob.ts",
+        "https://deno.land/std/path/posix.ts",
+        "https://deno.land/std/path/separator.ts",
+        "https://deno.land/std/path/win32.ts"
+      ],
+      "https://deno.land/std/path/posix.ts": [
+        "https://deno.land/std/path/_constants.ts",
+        "https://deno.land/std/path/_interface.ts",
+        "https://deno.land/std/path/_util.ts"
+      ],
+      "https://deno.land/std/path/separator.ts": [
+        "https://deno.land/std/path/_constants.ts"
+      ],
+      "https://deno.land/std/path/win32.ts": [
+        "https://deno.land/std/_util/assert.ts",
+        "https://deno.land/std/path/_constants.ts",
+        "https://deno.land/std/path/_interface.ts",
+        "https://deno.land/std/path/_util.ts"
       ]
     },
     "exportedModulesMap": {
-      "https://deno.land/std/node/util.ts": [
-        "https://deno.land/std/node/_util/_util_callbackify.ts",
-        "https://deno.land/std/node/_util/_util_promisify.ts",
-        "https://deno.land/std/node/_util/_util_types.ts",
-        "https://deno.land/std/node/_utils.ts"
+      "https://deno.land/std/fs/expand_glob.ts": [
+        "https://deno.land/std/fs/walk.ts",
+        "https://deno.land/std/path/mod.ts"
       ],
-      "https://deno.land/std/uuid/mod.ts": [
-        "https://deno.land/std/uuid/v1.ts",
-        "https://deno.land/std/uuid/v4.ts",
-        "https://deno.land/std/uuid/v5.ts"
+      "https://deno.land/std/fs/mod.ts": [
+        "https://deno.land/std/fs/copy.ts",
+        "https://deno.land/std/fs/empty_dir.ts",
+        "https://deno.land/std/fs/ensure_dir.ts",
+        "https://deno.land/std/fs/ensure_file.ts",
+        "https://deno.land/std/fs/ensure_link.ts",
+        "https://deno.land/std/fs/ensure_symlink.ts",
+        "https://deno.land/std/fs/eol.ts",
+        "https://deno.land/std/fs/exists.ts",
+        "https://deno.land/std/fs/expand_glob.ts",
+        "https://deno.land/std/fs/move.ts",
+        "https://deno.land/std/fs/read_json.ts",
+        "https://deno.land/std/fs/walk.ts",
+        "https://deno.land/std/fs/write_json.ts"
+      ],
+      "https://deno.land/std/path/_util.ts": [
+        "https://deno.land/std/path/_interface.ts"
+      ],
+      "https://deno.land/std/path/mod.ts": [
+        "https://deno.land/std/path/_interface.ts",
+        "https://deno.land/std/path/common.ts",
+        "https://deno.land/std/path/glob.ts",
+        "https://deno.land/std/path/posix.ts",
+        "https://deno.land/std/path/separator.ts",
+        "https://deno.land/std/path/win32.ts"
+      ],
+      "https://deno.land/std/path/posix.ts": [
+        "https://deno.land/std/path/_interface.ts"
+      ],
+      "https://deno.land/std/path/win32.ts": [
+        "https://deno.land/std/path/_interface.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
       "asset:///lib.deno.ns.d.ts",
       "asset:///lib.deno.shared_globals.d.ts",
+      "asset:///lib.deno.unstable.d.ts",
       "asset:///lib.deno.window.d.ts",
       "asset:///lib.es2015.collection.d.ts",
       "asset:///lib.es2015.core.d.ts",
@@ -387,20 +592,37 @@
       "asset:///lib.esnext.intl.d.ts",
       "asset:///lib.esnext.promise.d.ts",
       "asset:///lib.esnext.string.d.ts",
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/command.ts",
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/cscript.ts",
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/execute.ts",
+      "file:///C:/Deto/GitHub/100giorni/deno-adodb/lib/listAPI.ts",
       "file:///C:/Deto/GitHub/100giorni/deno-adodb/mod.ts",
       "https://deno.land/std/_util/assert.ts",
-      "https://deno.land/std/hash/sha1.ts",
-      "https://deno.land/std/node/_util/_util_callbackify.ts",
-      "https://deno.land/std/node/_util/_util_promisify.ts",
-      "https://deno.land/std/node/_util/_util_types.ts",
-      "https://deno.land/std/node/_utils.ts",
-      "https://deno.land/std/node/util.ts",
-      "https://deno.land/std/uuid/_common.ts",
-      "https://deno.land/std/uuid/mod.ts",
-      "https://deno.land/std/uuid/v1.ts",
-      "https://deno.land/std/uuid/v4.ts",
-      "https://deno.land/std/uuid/v5.ts",
-      "https://deno.land/x/exec/mod.ts"
+      "https://deno.land/std/fs/_util.ts",
+      "https://deno.land/std/fs/copy.ts",
+      "https://deno.land/std/fs/empty_dir.ts",
+      "https://deno.land/std/fs/ensure_dir.ts",
+      "https://deno.land/std/fs/ensure_file.ts",
+      "https://deno.land/std/fs/ensure_link.ts",
+      "https://deno.land/std/fs/ensure_symlink.ts",
+      "https://deno.land/std/fs/eol.ts",
+      "https://deno.land/std/fs/exists.ts",
+      "https://deno.land/std/fs/expand_glob.ts",
+      "https://deno.land/std/fs/mod.ts",
+      "https://deno.land/std/fs/move.ts",
+      "https://deno.land/std/fs/read_json.ts",
+      "https://deno.land/std/fs/walk.ts",
+      "https://deno.land/std/fs/write_json.ts",
+      "https://deno.land/std/path/_constants.ts",
+      "https://deno.land/std/path/_globrex.ts",
+      "https://deno.land/std/path/_interface.ts",
+      "https://deno.land/std/path/_util.ts",
+      "https://deno.land/std/path/common.ts",
+      "https://deno.land/std/path/glob.ts",
+      "https://deno.land/std/path/mod.ts",
+      "https://deno.land/std/path/posix.ts",
+      "https://deno.land/std/path/separator.ts",
+      "https://deno.land/std/path/win32.ts"
     ]
   },
   "version": "3.9.2"

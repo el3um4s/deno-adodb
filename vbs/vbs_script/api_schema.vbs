@@ -1,3 +1,5 @@
+' c:\Windows\SysWOW64\cscript.exe .\api_schema.vbs adodb.mdb [JSON/CSV]
+
 Include("db_OpenConnection.vbs")
 Include("schema_GetSchemaTables_All.vbs")
 Include("db_CloseConnection.vbs")
@@ -9,7 +11,7 @@ nameDatabase = WScript.Arguments.Item(0)
 Dim format
 format = "JSON"  'CSV - JSON
 
-If Wscript.Arguments.Count = 2 then
+If Wscript.Arguments.Unnamed.Count = 2 then
 	format = WScript.Arguments.Item(1) 'CSV - JSON
 End If
 
@@ -23,11 +25,9 @@ dim schema
 
 If UCase(format) = "CSV" then
     schema = GetSchemaTables_All_CSV(objConnection)
-elseif UCase(format) = "JSON" then
+Else
     schema = GetSchemaTables_All_JSON(objConnection)
 End if
-
-
 
 Wscript.Echo schema
 
