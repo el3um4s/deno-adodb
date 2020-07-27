@@ -1,5 +1,10 @@
 # deno-adodb
-A deno.js javascript client implementing the ADODB protocol on windows.
+
+> A deno.js javascript client implementing the ADODB protocol on windows.
+>
+> [![GitHub license](https://img.shields.io/github/license/el3um4s/deno-adodb.svg)](https://github.com/el3um4s/deno-adodb/blob/master/LICENSE)
+> [![HitCount](http://hits.dwyl.com/el3um4s/deno-adodb.svg)](http://hits.dwyl.com/el3um4s/deno-adodb)
+
 
 ### Notes
 
