@@ -70,6 +70,6 @@ Query database schema information (see [SchemaEnum](https://docs.microsoft.com/e
 
 ### TO DO
 
-[x] **`schema.getAllTables(cscriptString, nameDatabase);`**: Returns the tables (including views) defined in the catalog that are accessible to a given user.
-[] **`schema.getTablesByType(cscriptString, nameDatabase, tableType);`**: Returns the tables (including views) defined in the catalog that are accessible to a given user.
-[] **`query.sql(cscriptString, nameDatabase, sqlString);`**: Execute a SQL statement.
+- [x] **`schema.getAllTables(cscriptString, nameDatabase);`**: Returns the tables (including views) defined in the catalog that are accessible to a given user.
+- [ ] **`schema.getTablesByType(cscriptString, nameDatabase, tableType);`**: Returns the tables (including views) defined in the catalog that are accessible to a given user.
+- [ ] **`query.sql(cscriptString, nameDatabase, sqlString);`**: Execute a SQL statement.
