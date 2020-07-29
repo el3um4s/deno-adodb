@@ -5,6 +5,7 @@ export interface IExececuteResponse {
   result: string;
 }
 
+/** Performs operations on the database and return the result in the form of JSON (or CVS) */
 export async function execute(
   command: Array<string>,
 ): Promise<IExececuteResponse> {
@@ -36,9 +37,9 @@ export async function execute(
   process.close();
 
   response = response.trim();
-  const statusAdodb : boolean = response == "" ? false : true
+  const statusAdodb: boolean = response == "" ? false : true;
 
-  const resultObj : string = statusAdodb ? response : "{}"
+  const resultObj: string = statusAdodb ? response : "{}";
 
   let result = {
     captured: status.success,
