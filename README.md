@@ -10,7 +10,6 @@
 1. This project is in the early stages of its development. So many things can still change.
 2. To use deno-adodb you must manually save the contents of the repository on your PC. I don't know if it will be possible to avoid this in the future.
 3. The library need system support Microsoft.Jet.OLEDB.4.0 or Microsoft.ACE.OLEDB.12.0, Windows XP SP2 above support Microsoft.Jet.OLEDB.4.0 by default, Others need to install support! Recommended use Microsoft.ACE.OLEDB.12.0, download: [Microsoft.ACE.OLEDB.12.0](https://www.microsoft.com/en-us/download/details.aspx?id=13255)
-4. For the moment I have created only one API, to test the feasibility of the project.
 
 ### How to use
 
@@ -68,8 +67,15 @@ Query database schema information (see [SchemaEnum](https://docs.microsoft.com/e
 
 * **`schema.getAllTables(cscriptString, nameDatabase);`**: Returns the tables (including views) defined in the catalog that are accessible to a given user.
 
+### COMMAND.QUERY
+
+Query tables:
+
+* **`query.getAllValue(cscriptString, nameDatabase, nomeTable);`**: Returns all of the fields and records for the table (or view).
+* **`query.sql(cscriptString, nameDatabase, sqlString);`**: Execute a SQL statement.
+
 ### TO DO
 
 - [x] **`schema.getAllTables(cscriptString, nameDatabase);`**: Returns the tables (including views) defined in the catalog that are accessible to a given user.
 - [ ] **`schema.getTablesByType(cscriptString, nameDatabase, tableType);`**: Returns the tables (including views) defined in the catalog that are accessible to a given user.
-- [ ] **`query.sql(cscriptString, nameDatabase, sqlString);`**: Execute a SQL statement.
+- [x] **`query.sql(cscriptString, nameDatabase, sqlString);`**: Execute a SQL statement.

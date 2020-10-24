@@ -14,4 +14,24 @@ export const command = {
       return [cscriptString, nologo, vbs, nameDatabase, format];
     },
   },
+  query: {
+    sql: function (
+      cscriptString: string,
+      nameDatabase: string,
+      sQuery: string,
+      format: string = "JSON",
+    ) {
+      const vbs: string = listAPI.QUERY.sql.vbs;
+      return [cscriptString, nologo, vbs, nameDatabase, sQuery, format];
+    },
+    getAllValue: function (
+      cscriptString: string,
+      nameDatabase: string,
+      nomeTable: string,
+      format: string = "JSON",
+    ) {
+      const vbs: string = listAPI.QUERY.allValue.vbs;
+      return [cscriptString, nologo, vbs, nameDatabase, nomeTable, format];
+    },
+  },
 };
