@@ -3,7 +3,7 @@ import { exists, existsSync } from "https://deno.land/std/fs/mod.ts";
 
 /** Identifies the location of "cscript.exe" on the PC where deno-adodb is launched. */
 export async function cscript(): Promise<String> {
-  const systemRoot: string = Deno.env.get("SYSTEMROO0T") ||
+  const systemRoot: string = Deno.env.get("SYSTEMROOT") ||
     Deno.env.get("WINDIR") || "C:/WINDOWS";
   const cscript_SysWOW64: string = path.join(
     systemRoot,
@@ -25,7 +25,7 @@ export async function cscript(): Promise<String> {
 
 /** Identifies the location of "cscript.exe" on the PC where deno-adodb is launched. */
 export function cscriptSync(): string {
-  const systemRoot: string = Deno.env.get("SYSTEMROO0T") ||
+  const systemRoot: string = Deno.env.get("SYSTEMROOT") ||
     Deno.env.get("WINDIR") || "C:/WINDOWS";
   const cscript_SysWOW64: string = path.join(
     systemRoot,
