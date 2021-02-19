@@ -1,10 +1,12 @@
 # deno-adodb
 
 > A deno.js javascript client implementing the ADODB protocol on windows.
->
-> [![GitHub license](https://img.shields.io/github/license/el3um4s/deno-adodb.svg)](https://github.com/el3um4s/deno-adodb/blob/master/LICENSE)
-> [![HitCount](http://hits.dwyl.com/el3um4s/deno-adodb.svg)](http://hits.dwyl.com/el3um4s/deno-adodb)
 
+[![GitHub license](https://img.shields.io/github/license/el3um4s/deno-adodb.svg)](https://github.com/el3um4s/deno-adodb/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/github/tag/el3um4s/deno-adodb.svg)](https://GitHub.com/el3um4s/deno-adodb/tags/)
+[![HitCount](http://hits.dwyl.com/el3um4s/deno-adodb.svg)](http://hits.dwyl.com/el3um4s/deno-adodb)
+[![deno doc](https://doc.deno.land/badge.svg)](https://doc.deno.land/https/raw.githubusercontent.com/el3um4s/deno-adodb/master/mod.ts)
+[![deno.land](https://img.shields.io/badge/deno.land-1.7.2-blue)](https://deno.land/x/deno_adodb)
 ### Warnings
 
 1. This project is in the early stages of its development. So many things can still change.
